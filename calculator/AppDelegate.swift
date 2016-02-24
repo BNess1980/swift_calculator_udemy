@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  calculator
 //
-//  Created by Ness, Bruce (US - New York) on 2/24/16.
+//  Created by Ness, Bruce (US - New York) on 2/14/16.
 //  Copyright © 2016 ness bruce. All rights reserved.
 //
 
